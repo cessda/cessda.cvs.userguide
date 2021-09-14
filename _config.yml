@@ -39,8 +39,9 @@ exclude:
   - nginx/
   - node_modules/
   - README.md
-  - CONTRIBUTING.md
+  - CONTRIBUTORS.md
   - CHANGELOG.md
+  - document-navigation-structure.md
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/

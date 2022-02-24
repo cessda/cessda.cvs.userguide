@@ -1,6 +1,6 @@
 # CESSDA Vocabulary Service User Guide
 
-This repository contains the User Guide for the CESSDA Vocabulary Service (CVS).
+This repository contains the User Guide for the CESSDA Vocabulary Service.
 
 ## Technical Implementation
 

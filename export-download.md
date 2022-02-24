@@ -13,7 +13,7 @@ In the table, you can choose the download format (SKOS, PDF or HTML) and which l
 If you want all languages, check the box beside SKOS, PDF or HTML on the top row.
 To empty your choice, recheck the box.
 
-After choosing your format and languages, click on the download button on the bottom row.
+After choosing your format and languages, click on the relevant download button on the bottom row.
 
 ![Image 4](images/image4.png "Image 4")
 

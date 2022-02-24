@@ -1,4 +1,4 @@
-# Navigation Structure of CVS User Guide
+# Navigation Structure of CESSDA Vocabulary Service User Guide
 
 This is the record of how the various sections are structured,
 and should be used by developers for reference, and updated when new pages are added.

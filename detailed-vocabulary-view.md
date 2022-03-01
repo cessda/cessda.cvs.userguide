@@ -43,4 +43,4 @@ The ‘Identity and general’ section provides the vocabulary [URI](https://en.
 as well as information on the creating agency and translating agency, with links to these organisations.
 
 The ‘Usage’ section generally provides information on the DDI elements for which the vocabulary can be used.
-License and citation information is provided in its own section.
+Licence and citation information is provided in its own section.

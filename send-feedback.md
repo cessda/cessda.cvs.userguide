@@ -9,7 +9,7 @@ nav_order: 090
 # {{ page.title }}
 
 If you encounter any problems with the service, you can report them by clicking on the ‘Send feedback’
-button at bottom right and filling in the online form.
+button at bottom right (highlighted in red) and filling in the online form.
 
 ![Send feedback tab](images/send-feedback-tab.png "Send feedback tab")
 

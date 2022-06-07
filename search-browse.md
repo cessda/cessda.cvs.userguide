@@ -29,7 +29,8 @@ The system gives a list of vocabularies in that language.
 
 The results list shows a list of languages in which a particular vocabulary is available.
 You can switch between the languages by clicking on the language code in the box.
-Clicking on the ‘Download’ button in the results list will bring you to the download table
+To open up the vocabulary, click on the vocabulary name.
+Clicking on the ‘Download’ button in the results list will bring you to the export/download table
 where you can select the format and languages to include.
 
 It is possible to sort the results by relevance or by the vocabulary name (A-Z, Z-A).

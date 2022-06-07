@@ -20,6 +20,6 @@ After choosing your format and languages, click on the relevant download button 
 Note that the table allows you to download only those language versions that have been updated
 to the current source vocabulary version.
 Older versions can be downloaded from the webpage of the older version.
-The download table contains the links.
+The download table contains the links to the older version.
 
-The service also provides [REST APIs](https://vocabularies.cessda.eu/api-docs).
+The service also provides [REST APIs](https://api.tech.cessda.eu/).

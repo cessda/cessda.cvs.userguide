@@ -10,22 +10,16 @@ nav_order: 010
 
 Vocabulary level information includes:
 
-- CV short name: identifier for the vocabulary that remains the same across languages
-
 - CV name: the human readable vocabulary title
-
+- CV short name: identifier for the vocabulary that remains the same across languages
 - CV definition: definition and purpose of the vocabulary
-
 - CV notes: additional information relating to the vocabulary
-
 - Languages in which the CV is available
 
 Code level information includes:
 
 - Code value that remains the same across languages, identifying the code/concept
-
 - Descriptive terms for each code
-
 - Definition for each code, specifying the meaning and scope of the concept
 
 Code values and descriptive terms are mandatory in the system, definitions are optional.

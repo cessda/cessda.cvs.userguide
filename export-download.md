@@ -8,12 +8,13 @@ nav_order: 030
 
 # {{ page.title }}
 
-Click on the ‘Export/download’ tab in either the results list or in the detailed vocabulary view to get to the download table.
-In the table, you can choose the download format (SKOS, PDF or HTML) and which languages to include in the download.
-If you want all languages, check the box beside SKOS, PDF or HTML on the top row.
-To empty your choice, recheck the box.
+Click on the ‘Export/download’ tab in either the results list or in the detailed vocabulary view
+to get to the export/download table. Here you can choose the version of the vocabulary,
+the export format (SKOS, PDF or HTML) and select the languages you would like to download.
+If you would like to export all available languages, check the box on the top row next to
+the desired export format (SKOS, PDF or HTML). To empty your choice, uncheck the box.
 
-After choosing your format and languages, click on the relevant download button on the bottom row.
+After choosing your version and languages, click on the relevant download button on the bottom row.
 
 ![Image 4](images/image4.png "Image 4")
 

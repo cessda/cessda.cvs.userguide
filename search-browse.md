@@ -23,6 +23,8 @@ You can restrict your search to vocabularies from a particular agency by using t
 Note that this filter covers the agencies providing original source vocabularies,
 not the agencies providing translations.
 
+![Image 5](images/image5.png "Image 5")
+
 If you want to see what vocabularies are available in a particular language,
 choose the language from the dropdown list next to the search box.
 The system gives a list of vocabularies in that language.
@@ -32,5 +34,7 @@ You can switch between the languages by clicking on the language code in the box
 To open up the vocabulary, click on the vocabulary name.
 Clicking on the ‘Download’ button in the results list will bring you to the export/download table
 where you can select the format and languages to include.
+
+![Image 6](images/image6.png "Image 6")
 
 It is possible to sort the results by relevance or by the vocabulary name (A-Z, Z-A).

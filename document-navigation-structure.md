@@ -14,5 +14,6 @@ The indentation is intended to indicate major sections, subsections and sub-subs
   (010) Detailed vocabulary view (detailed-vocabulary-view.md)
   (020) Search and browse (search-browse.md)
   (030) Export/download (export-download.md)
+  (040) REST API (rest-api.md)
   (090) Send feedback (send-feedback.md)
 ```

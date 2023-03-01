@@ -52,7 +52,7 @@ pipeline {
 			steps {
 				sh "docker build -t ${imageTag} -f nginx.Dockerfile ."
 			}
-			when { branch 'master' }
+			when { branch 'main' }
 		}
 		stage('Push Docker Container') {
 			steps {
@@ -60,13 +60,13 @@ pipeline {
 				sh "docker push ${imageTag}"
 				sh "gcloud container images add-tag ${imageTag} ${docker_repo}/${productName}-${componentName}:${env.BRANCH_NAME}-latest"
 			}
-			when { branch 'master' }
+			when { branch 'main' }
 		}
 		stage('Deploy Nginx Container') {
 			steps {
-				build job: 'cessda.cvs.deploy/master', parameters: [string(name: 'userguide_image_tag', value: "${env.BRANCH_NAME}-${env.BUILD_NUMBER}")], wait: false
+				build job: 'cessda.cvs.deploy/main', parameters: [string(name: 'userguide_image_tag', value: "${env.BRANCH_NAME}-${env.BUILD_NUMBER}")], wait: false
 			}
-			when { branch 'master' }
+			when { branch 'main' }
 		}
 	}
 }

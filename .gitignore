@@ -1,9 +1,14 @@
-_site
+# Exclude _site, but not _site/index.html
+_site/**
+!_site/index.html
+
+# Caches
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.vscode
-Gemfile.lock
 vendor
 .scannerwork/
 .DS_Store
+
+# IDE directories
+.vscode

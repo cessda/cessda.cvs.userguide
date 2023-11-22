@@ -5,6 +5,7 @@ baseurl: /documentation/
 logo: cessda_logo_cvs.png
 color_scheme: cessda
 serviceurl: /
+destination: ./_site/documentation
 
 # Theme
 theme: jekyll-cessda-docs

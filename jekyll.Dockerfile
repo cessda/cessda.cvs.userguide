@@ -10,7 +10,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-FROM ruby:4.0.1
+FROM ruby:4.0.2
 
 # Install Gem dependencies
 COPY Gemfile ./
